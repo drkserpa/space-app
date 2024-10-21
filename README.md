@@ -1,8 +1,12 @@
-# React + Vite
+<h1 align="center">Projeto de contador galeria de imagens usando React + Vite</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Resumo do projeto
+Exercício utilizando React + Vite para a construção de uma galeria de imagens com alguns recursos como Expandir(modal), Favoritar e Filtrar por tags. Revisão de hooks como useState e useEffect para gerenciar a dinâmica dos estados da aplicação. Introdução à biblioteca Styled Components para desevolver os estilos da aplicação diretamente nos componentes do React. Definição de variáveis globais de estilos. Construção das funcionalidades do projeto em JavaScript para fixação de conhecimento na linguagem.
+### Tecnologias utilizadas
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ``JavaScript``
+- ``React``
+- ``Vite``
+- ``CSS``
+- ``HTML``
+- ``Styled Components``
